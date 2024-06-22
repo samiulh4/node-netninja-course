@@ -1,1 +1,1 @@
-# node-netninja-course
+# NodeJs Net Ninja Course
