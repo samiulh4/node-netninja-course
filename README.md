@@ -10,3 +10,5 @@
 
 ## npm install ejs@3.1.2
 
+## npm install morgan@1.10.0
+
