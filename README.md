@@ -12,3 +12,8 @@
 
 ## npm install morgan@1.10.0
 
+## npm install mongoose@5.9.1
+
+(npm install mongoose@5.9.13 Avoid warning error
+npm install mongodb@3.5.7)
+
